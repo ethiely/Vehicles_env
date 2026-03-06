@@ -1,1 +1,3 @@
 # Vehicles_env
+O aplicativo desenvolvido tem como base de dados as vendas de veículos elétricos globalmente até o ano de 2026.
+Foram criados histogramas, heatmaps, gráficos de dispersão e de barras que permitem analisar as marcas que estão liderando o mercado, as regiões onde a adoção de veículos elétricos está mais forte e comparações entre a autonomia dos modelos, tipologias de veículos mais vendidos e a correlação da infraestrutura de carregamento com a adoção dos EV's nas regiões analisadas.
